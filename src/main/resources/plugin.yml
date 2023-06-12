@@ -1,0 +1,4 @@
+name: AnimeTower
+version: '${project.version}'
+main: fr.yanis.animetower.AnimeTower
+api-version: 1.16
